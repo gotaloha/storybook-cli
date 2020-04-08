@@ -1,8 +1,12 @@
 # Storybook CLI for creating Components
 
+Creating a new component for Storybook can be a tedious task. This simple CLI tool will create a basic scaffolding automatically, creating any necessary directories and files, customized to the name of your new component.
+
+At this time it is suggested that you manually integrate this tool with your instance of Storybook.
+
 ## Installation
 
-1. Clone the repo: { NEED URL }
+1. Clone the repo: `https://github.com/gotaloha/storybook-cli`
 
 2. Navigate into the base directory and install via NPM: `npm install`
 
