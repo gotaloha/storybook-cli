@@ -1,0 +1,19 @@
+{
+  "name": "storybook-component-wizard",
+  "version": "1.0.0",
+  "description": "CLI tool for creating a boilerplate template for scaffolding a new Storybook Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "esm": "^3.2.25"
+  }
+}
